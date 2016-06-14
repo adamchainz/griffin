@@ -34,7 +34,7 @@ CLI
 
         A ``ini`` configuration file for parsing RAML.  See the `ramlfications \
         documentation \
-        <https://ramlfications.readthedocs.org/en/latest/config.html>`_ \
+        <https://ramlfications.readthedocs.io/en/latest/config.html>`_ \
         for more information.
 
     .. program:: build
@@ -54,7 +54,7 @@ Core
 
     .. py:attribute:: api
 
-        The API parsed by `ramlfications <https://ramlfications.readthedocs.org/en/latest>`_.
+        The API parsed by `ramlfications <https://ramlfications.readthedocs.io/en/latest>`_.
 
     .. py:attribute:: metadata
 

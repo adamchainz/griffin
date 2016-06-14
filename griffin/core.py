@@ -15,7 +15,7 @@ class APIContext(object):
     Context object of the parsed API.
 
     :param api: The API parsed by \
-        `ramlfications <https://ramlfications.readthedocs.org/en/latest>`_.
+        `ramlfications <https://ramlfications.readthedocs.io/en/latest>`_.
     """
     def __init__(self, api):
         self.api = api
@@ -209,7 +209,7 @@ def create_context(ramlfile, ramlconfig=None):
 
     :param str ramlfile:  RAML file to parse
     :param str ramlconfig: config file for RAML (see ``ramlfications`` \
-        `docs <https://ramlfications.readthedocs.org/en/latest/config.html>`_)
+        `docs <https://ramlfications.readthedocs.io/en/latest/config.html>`_)
     :rtype: :py:class:`.APIContext` object
     """
     api = ramlfications.parse(ramlfile, ramlconfig)

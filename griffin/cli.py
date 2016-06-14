@@ -116,7 +116,7 @@ def build(ramlfile, config, output=None, ramlconfig=None):
     :param str output: output of HTML files
     :param str ramlconfig: configuration for RAML parsing.  See \
         `ramlfications documentation \
-        <https://ramlfications.readthedocs.org/en/latest/config.html>`_ \
+        <https://ramlfications.readthedocs.io/en/latest/config.html>`_ \
         for more information.
     """
     # parse out RAML file & create context for templates

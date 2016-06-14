@@ -22,7 +22,7 @@ About
 It’s tested on Python 2.6, 2.7, 3.3+, and PyPy. Both Linux and OS X are supported.
 
 
-.. _`Read the Docs`: https://griffin.readthedocs.org/
+.. _`Read the Docs`: https://griffin.readthedocs.io/
 .. _`GitHub`:  https://github.com/spotify/griffin/
 .. _`RAML`: http://raml.org
-.. _`RAMLfications`: https://ramlfications.readthedocs.org
+.. _`RAMLfications`: https://ramlfications.readthedocs.io

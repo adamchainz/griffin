@@ -136,9 +136,9 @@ and based in San Fran.
 .. _pyenv: https://github.com/yyuu/pyenv
 .. _Sphinx: http://sphinx-doc.org/
 .. _`Read the Docs`: https://github.com/snide/sphinx_rtd_theme
-.. _`Read the Docs site`: https://griffin.readthedocs.org
-.. _`usage`: http://griffin.readthedocs.org/en/latest/usage.html
-.. _`How to Contribute`: http://griffin.readthedocs.org/en/latest/contributing.html
+.. _`Read the Docs site`: https://griffin.readthedocs.io
+.. _`usage`: https://griffin.readthedocs.io/en/latest/usage.html
+.. _`How to Contribute`: https://griffin.readthedocs.io/en/latest/contributing.html
 .. _`webchat`: http://webchat.freenode.net?channels=%23ramlfications&uio=ND10cnVlJjk9dHJ1ZQb4
 .. _`econchick`: https://github.com/econchick
 .. _`Twitter`: https://twitter.com/roguelynn

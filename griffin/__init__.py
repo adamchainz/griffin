@@ -9,7 +9,7 @@ __version__ = '0.0.1.dev1'
 
 
 __email__ = "lynn@spotify.com"
-__uri__ = "https://griffin.readthedocs.org"
+__uri__ = "https://griffin.readthedocs.io"
 __description__ = "A RAML documentation generator in Python"
 
 __license__ = "Apache 2.0"
